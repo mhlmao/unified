@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: io.oceanplatform
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, graalvm, gradle, http-client, java, java-application, kafka, kafka-streams, logback, micronaut-build, properties, readme, serialization-jackson, shade, spock, test-resources]
